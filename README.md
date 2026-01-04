@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Hi, I'm Animesh Bera! I'm a developer and tech enthusiast focused on creating tools that prioritize privacy and transparency.
+
+🔭 Currently working on: A Privacy-First Digital Identity Monitor with biometric processing.
+🌱 Learning: Deepening my knowledge in Ethical Hacking and Blockchain Fundamentals.
+💬 Ask me about: Python, C, Smart Contracts, or Crypto Mining.
+⚡ Fun fact: When I'm not coding, you can find me playing Chess, Cricket, or analyzing the latest crypto trends.
+
 <!--
 **AniBnsec/Anibnsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
